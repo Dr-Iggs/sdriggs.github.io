@@ -1,3 +1,13 @@
+
+# Table of Contents
+1. [President](#President)
+2. [VP Communication](#Communication)
+3. [VP Marketing](#Marketing)
+4. [VP Projects](#Projects)
+5. [Bootcamp](#Bootcamp)
+6. [Project Leaders](#Leaders)
+7. [Other Tools](#Tools)
+
 ## Purpose of Data Science Society
 
 >The single mission of the BYUI Data Science Society is to build employable skills for careers related to data science. This will be accomplished through two primary emphases of the society:
@@ -19,7 +29,7 @@ _Spencer Driggs, Winter 2023 Data Science co-President_
 
 # **Organizational Roles**
 
-### **President**
+### **President** <a name="President"></a>
 
 * Help everyone below with all of their responsibilities
 * Attend at least a few of the school’s leadership meetings
@@ -34,7 +44,7 @@ _Spencer Driggs, Winter 2023 Data Science co-President_
 * Bro. Hathaway is willing to sponsor a trip for the DSS leadership, often to a DS-related conference nearby. Look for symposiums at other universities, or industry-sponsored events.
 * Pick up food before meetings (very important).
 
-### **Vice President, Communication:**
+### **Vice President, Communication:** <a name="Communication"></a>
 
 You are in charge of communicating to the students IN the DSS
 
@@ -58,7 +68,7 @@ You are in charge of communicating to the students IN the DSS
 * During the first or second week of projects, go around and make sure every team has a repository on the DSS [Github organization](https://github.com/BYUIDSS). Some projects might reuse a repository from previous semesters out of convenience, which is fine.
 * Near the end of the semester, take extra note of who might want to be a project leader next semester. Talk to current project leaders about their suggestions, then reach out to them directly and individually and invite them to the prep meeting at the end of the semester.
 
-### **Vice President, Outreach:**
+### **Vice President, Marketing:** <a name="Marketing"></a>
 
 Your job is to help people know more about the DSS, the projects going on, and the opportunities to meet new people. We have projects from a range of industries, and students in that emphasis should know about it so they can join: biostatistics, economics, marketing, etc. Be aware of those fields and target them!
 
@@ -72,10 +82,10 @@ Your job is to help people know more about the DSS, the projects going on, and t
     * This works at the beginning of the semester, or at the end of the semester. Try it both times
 * Get DSS meetings posted on [I-Belong](https://ibelong.byui.edu/feeds?type=club&type_id=47028&tab=home). Freshmen in particular use this to learn about events through the semester. We have an organization already made, but the officers graduated in 2022.
 
-### **Vice President, Projects**
-
+### **Vice President, Projects** <a name="Projects"></a>
+Your job is to focus on the *next* semester's projects. 
 * Every semester, we want a variety of projects to connect with different people. Try to include at least one project in each of the following categories:
-    * Database creation, like with SQL
+    * Database creation, like with SQL (Recently, this has been a popular project for students)
     * Dashboard creation, often with Shiny or Power BI
     * Non-coding projects, like reading dashboards to find answers to present or creating simple visualizations with Flourish
     * An AI project, either building a model or interacting with an LLM
@@ -84,7 +94,7 @@ Your job is to help people know more about the DSS, the projects going on, and t
 * Go to a couple random local businesses here, advertise yourself as a BYUI club that wants to do _free_ projects with data. Every good project includes either:
     * A dataset from them that they want to make sense of, along with potential questions to ask
     * Descriptions of data that they want to have, for you to search for online or collect.
-* During DSS, stop by EVERY project. Talk with both the project manager and the students in the group.
+    * Work with someone from the company to clarify what they'd like from the DSS in the coming semester. Have it prepared *before* the start of the semester, so teams have what they need to start the semester.
 * Prepare slide templates for the start and end of semester. Each project leader will add information about their semester project, including:
     * The organization they’re working with
     * What tools they’ll use
@@ -92,7 +102,7 @@ Your job is to help people know more about the DSS, the projects going on, and t
     * Also, add a summary slide at the end with every project name
 * Be in each team’s Slack channel to see their status and answer questions.
 
-### **Bootcamp**
+### **Bootcamp** <a name="Bootcamp"></a>
 
 Lots of younger DS students join the BootCamp because they haven’t taken the programming classes yet, but want to feel involved with the DS community. Your goal is to give them the basics and help them connect with the people they’ll take classes with in the future.
 
@@ -102,7 +112,7 @@ Lots of younger DS students join the BootCamp because they haven’t taken the p
 * Most of the students in your team WILL end up taking the official classes you mirror, so don’t worry about speed or depth. Focus on helping the students find success with the basics, so that when they hit DS 250 or 350 they’ll feel confident.
 * Ask questions to the group that allow them to work with each other.
 
-### **Project Leaders**
+### **Project Leaders** <a name="Leaders"></a>
 
 One of the biggest ways we can help students find success in the project is through a strong group friendship. Building those relationships helps the team members work together, as well as to continue to show up when classes get more involved. Whether you feel experienced or not, many of the people in the team will look to you as a data scientist to emulate, even more than their TAs or professors.
 
@@ -120,7 +130,7 @@ One of the biggest ways we can help students find success in the project is thro
     * Gave moderate contributions to the project, even if they weren’t the biggest leader
 
 
-## **Other Useful Tools**
+## **Other Useful Tools** <a name="Tools"></a>
 
 **Checklist before the DSS Opening Social:**
 
