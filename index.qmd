@@ -51,7 +51,7 @@ _Spencer Driggs, Winter 2023 Data Science co-President_
 
 ### **Vice President, Communication:** <a name="Communication"></a>
 
-You are in charge of communicating to the students IN the DSS
+You are in charge of communicating to the students IN the DSS. You'll set up the communication channels and project repositories at the start of the semester, then send out weekly emails about relevant events on campus.
 
 * Gather and advertise data-related activities for DSS members to attend. DSS meetings focus more on skills and building practice than bigger-picture views, so we count on other events to supplement our weekly meetings.
     * Thursday afternoon lectures
@@ -70,7 +70,8 @@ You are in charge of communicating to the students IN the DSS
     * Academic deadlines (withdraw deadline, graduation application, adjusted schedules)
     * BE SURE to post a PDF of the newsletter, along with copies of highlights, in the Slack channel. The emails average around 30 opens, so Slack goes much further for current students.	
 * You should also be prepared to share upcoming events at the start of each DSS meeting.
-* During the first or second week of projects, go around and make sure every team has a repository on the DSS [Github organization](https://github.com/BYUIDSS). Some projects might reuse a repository from previous semesters out of convenience, which is fine.
+* During the first or second week of projects, go around and make sure every team has a repository on the DSS [Github organization](https://github.com/BYUIDSS). Use this [blank template repository](https://github.com/BYUIDSS/blank_project_repository), make it private, then pass around a laptop and let everyone add their username to join the project. Some projects might reuse a repository from previous semesters out of convenience, which is fine.
+    * Make Github channels for each of the groups. Format the title as projectname_semester, like *madison_fire_wi24*
 * Near the end of the semester, take extra note of who might want to be a project leader next semester. Talk to current project leaders about their suggestions, then reach out to them directly and individually and invite them to the prep meeting at the end of the semester.
 
 ### **Vice President, Marketing:** <a name="Marketing"></a>
@@ -149,10 +150,15 @@ One of the biggest ways we can help students find success in the project is thro
 - [ ] Opening survey at the beginning and end of the slides
 - [ ] First email sent and posted on Slack
 - [ ] Professor invited to give opening remarks
-
+- [ ] Github template repositories set up
+- [ ] Every project has a dataset to work from, even if the project details aren't quite settled.
+ 
 **Things to add to this document**
 
 - [ ] Website to order DSS merch
 - [ ] Details on using I-Belong
 - [ ] Suggestions for mid-semester friendly competition
-- [ ] Find a better balance between VP and Pres responsibilities
+
+**Projects for future DSS Leadership**
+
+ + Embrace our [Linkedin page](https://www.linkedin.com/groups/14251531/), potentially rebuilding it as a company that students can tag to their resumes.
