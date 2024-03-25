@@ -1,3 +1,8 @@
+---
+title: "Data Science Society Bylaws"
+embed-resources: True
+format: html
+---
 
 # Table of Contents
 1. [President](#President)
@@ -8,7 +13,7 @@
 6. [Project Leaders](#Leaders)
 7. [Other Tools](#Tools)
 
-## Purpose of Data Science Society
+# Purpose of Data Science Society
 
 >The single mission of the BYUI Data Science Society is to build employable skills for careers related to data science. This will be accomplished through two primary emphases of the society:
 >
@@ -84,6 +89,7 @@ Your job is to help people know more about the DSS, the projects going on, and t
 
 ### **Vice President, Projects** <a name="Projects"></a>
 Your job is to focus on the *next* semester's projects. 
+
 * Every semester, we want a variety of projects to connect with different people. Try to include at least one project in each of the following categories:
     * Database creation, like with SQL (Recently, this has been a popular project for students)
     * Dashboard creation, often with Shiny or Power BI
